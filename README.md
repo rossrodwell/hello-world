@@ -1,2 +1,2 @@
 # hello-world
-Testing for CI on Nagios repo
+Testing for Continuous Improvement on Nagios repository
