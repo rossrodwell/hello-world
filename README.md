@@ -1,2 +1,2 @@
 # hello-world
-Practicing for CI on Nagios repo
+Testing for CI on Nagios repo
